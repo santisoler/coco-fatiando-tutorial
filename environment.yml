@@ -18,9 +18,6 @@ dependencies:
   - pykdtree
   - numba
   - tqdm
-  # GMT and PyGMT for plotting maps
-  - pygmt==0.4.*
-  - gmt==6.2.*
   # Fatiando packages
   - pooch>=1.6.0,<2.0.0
   - verde>=1.6.0,<2.0.0
