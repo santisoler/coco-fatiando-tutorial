@@ -28,7 +28,7 @@ import pooch
 import pandas as pd
 
 gravity_path = pooch.retrieve(
-    url=" https://raw.githubusercontent.com/santisoler/coco-fatiando-tutorial/homework/homework_data/australia_gravity.csv",
+    url="https://raw.githubusercontent.com/santisoler/coco-fatiando-tutorial/homework/homework_data/australia_gravity.csv",
     known_hash="sha256:b0f44e5b523a3ca034d07820022c23e5b65875956a88e6eda4cd69f9b66da9fc",
 )
 
