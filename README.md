@@ -1,4 +1,6 @@
 # CoCo2022: Learning how to use Fatiando tools
+_by [Santiago Soler](https://github.com/santisoler/), [Agustina Pesce](https://github.com/aguspesce/) and [Andrea Balza](https://github.com/andieie)_
+
 
 ## License
 
